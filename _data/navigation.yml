@@ -1,0 +1,17 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "Home"
+    url: /
+  - title: "Members"
+    url: /members/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/

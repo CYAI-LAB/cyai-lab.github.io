@@ -1,0 +1,102 @@
+professors:
+  - name: "최창희 (Changhee Choi)"
+    position: "Associate Professor, Sejong University"
+    email: "choich@sejong.ac.kr"
+    image: "../assets/images/bio-photo.jpg"
+    homepage: "https://cyberhamster500.github.io"
+  
+    education:
+      - "Ph.D. in School of Computing, KAIST (Advisor : Lee Heungkyu)"
+      - "M.S. in School of Computing, KAIST (Advisor : Lee Heungkyu)"
+      - "B.S. in Department of Computer Science and Engineering, Yonsei University"
+
+    career:
+      - "2025–Present: Associate Professor, Sejong University"
+      - "2013–2025: Senior Researcher, Agency for Defense Development"
+
+# phd_students:
+#   - name: "홍길동"
+#     role: "박사과정"
+#     email: "hong@cyai.lab"
+#     image: "../assets/images/bio-photo.jpg"
+#     homepage: "https://hong.example.com"
+#     interests:
+#       - 위협 인텔리전스 자동 분석
+#       - CoT 기반 TTP 추출
+#       - 공격 시퀀스 모델링
+
+#   - name: "김민수"
+#     role: "석사과정"
+#     email: "minsu@cyai.lab"
+#     image: "../assets/images/bio-photo.jpg"
+#     homepage: ""
+#     interests:
+#       - 이상 탐지 시스템
+#       - LLM 응용 보안 자동화
+#       - 로그 기반 위협 탐지
+
+#   - name: "김민수"
+#     role: "석사과정"
+#     email: "minsu@cyai.lab"
+#     image: "../assets/images/bio-photo.jpg"
+#     homepage: ""
+#     interests:
+#       - 이상 탐지 시스템
+#       - LLM 응용 보안 자동화
+#       - 로그 기반 위협 탐지
+
+
+# masters_students:
+#   - name: "김민수"
+#     role: "석사과정"
+#     email: "minsu@cyai.lab"
+#     image: "../assets/images/bio-photo.jpg"
+#     homepage: ""
+#     interests:
+#       - 이상 탐지 시스템
+#       - LLM 응용 보안 자동화
+#       - 로그 기반 위협 탐지
+
+undergraduates:
+undergraduates:
+  - name: "김근호"
+    role: "RED Team"
+    email: "gimgeunho5@gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests: [RED]
+
+  - name: "조상훈"
+    role: "RED Team"
+    email: "sharkk0313@gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests: [RED]
+
+  - name: "김민준"
+    role: "BLUE Team"
+    email: "sisiqjsk@gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests: [BLUE]
+
+  - name: "변재준"
+    role: "BLUE Team"
+    email: "byun050322@gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests: [BLUE]
+
+  - name: "류승완"
+    role: "PURPLE Team"
+    email: "wan6286@gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests: [PURPLE]
+
+  - name: "이지민"
+    role: "PURPLE Team"
+    email: "speech9508@gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests: [PURPLE]
+
+  - name: "유권무"
+    role: "PURPLE Team"
+    email: "kunmumu411@gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests: [PURPLE]
