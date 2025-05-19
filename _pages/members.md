@@ -42,12 +42,11 @@ classes: wide
         {% endif %}
 
         <p style="font-size: 0.9rem;">
-          📧 {{ member.email }}<br>
+          📧 <a class="email" data-user="{{ member.email_user }}" data-domain="{{ member.email_domain }}"></a><br>
           {% if member.homepage and member.homepage != "" %}
           🏠 <a href="{{ member.homepage }}" target="_blank">홈페이지</a>
           {% endif %}
         </p>
-
         {% if member.education %}
         <strong style="font-size: 0.95rem;">Education:</strong>
         <ul style="font-size: 0.9rem;">
@@ -134,7 +133,7 @@ classes: wide
     {% endif %}
     <h3>{{ member.name }}</h3>
     <p><strong>{{ member.role }}</strong></p>
-    <p>✉ {{ member.email }}</p>
+    <p>✉ <a class="email" data-user="{{ member.email_user }}" data-domain="{{ member.email_domain }}"></a></p>
     {% if member.homepage %}
     <p>🌐 <a href="{{ member.homepage }}" target="_blank">Homepage</a></p>
     {% endif %}

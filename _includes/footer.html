@@ -19,3 +19,14 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. All rights reserved.
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll('.email').forEach(el => {
+      const email = `${el.dataset.user}@${el.dataset.domain}`;
+      el.textContent = email;
+      el.href = `mailto:${email}`;
+    });
+  });
+</script>

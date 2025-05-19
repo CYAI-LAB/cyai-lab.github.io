@@ -1,7 +1,8 @@
 professors:
   - name: "최창희 (Changhee Choi)"
     position: "Associate Professor, Sejong University"
-    email: "choich@sejong.ac.kr"
+    email_user : "choich"
+    email_domain : "sejong.ac.kr"
     image: "../assets/images/bio-photo.jpg"
     homepage: "https://cyberhamster500.github.io"
   
@@ -58,45 +59,65 @@ professors:
 #       - 로그 기반 위협 탐지
 
 undergraduates:
-undergraduates:
   - name: "김근호"
     role: "RED Team"
-    email: "gimgeunho5@gmail.com"
+    email_user: "gimgeunho5"
+    email_domain: "gmail.com"
     image: "../assets/images/bio-photo.jpg"
-    interests: [RED]
+    interests:
+      - "LLM 기반 공격 Payload 생성 자동화"
+      - "LLM 기반 공격 캠페인 변종 생성"
+      - "모의 해킹"
 
   - name: "조상훈"
     role: "RED Team"
-    email: "sharkk0313@gmail.com"
+    email_user: "sharkk0313"
+    email_domain: "gmail.com"
     image: "../assets/images/bio-photo.jpg"
-    interests: [RED]
+    interests:
+      - "모의 웹 해킹"
+      - "모의 APT 공격"
 
   - name: "김민준"
     role: "BLUE Team"
-    email: "sisiqjsk@gmail.com"
+    email_user: "sisiqjsk"
+    email_domain: "gmail.com"
     image: "../assets/images/bio-photo.jpg"
-    interests: [BLUE]
+    interests:
+      - "시스템 보안"
+      - "리버싱"
 
   - name: "변재준"
     role: "BLUE Team"
-    email: "byun050322@gmail.com"
+    email_user: "byun050322"
+    email_domain: "gmail.com"
     image: "../assets/images/bio-photo.jpg"
-    interests: [BLUE]
+    interests:
+      - "LLM 기반 CTI 분석"
+      - "사이버 국방 분야"
 
   - name: "류승완"
     role: "PURPLE Team"
-    email: "wan6286@gmail.com"
+    email_user: "wan6286"
+    email_domain: "gmail.com"
     image: "../assets/images/bio-photo.jpg"
-    interests: [PURPLE]
+    interests:
+      - "AI 보안"
+      - "리버싱"
 
   - name: "이지민"
     role: "PURPLE Team"
-    email: "speech9508@gmail.com"
+    email_user: "cddpt"
+    email_domain: "sju.ac.kr"
     image: "../assets/images/bio-photo.jpg"
-    interests: [PURPLE]
+    interests:
+      - "모바일 보안"
+      - "포렌식"
 
   - name: "유권무"
     role: "PURPLE Team"
-    email: "kunmumu411@gmail.com"
+    email_user: "kunmumu411"
+    email_domain: "gmail.com"
     image: "../assets/images/bio-photo.jpg"
-    interests: [PURPLE]
+    interests:
+      - "AI 보안"
