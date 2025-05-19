@@ -24,4 +24,4 @@ CYAI 랩에서는 사이버보안을 위한 인공지능을 연구하고 싶은 
 
 
 ## 연락처
-Email: choich@sejong.ac.kr
+📧 <a class="email" data-user="{{ member.email_user }}" data-domain="{{ member.email_domain }}"></a>
