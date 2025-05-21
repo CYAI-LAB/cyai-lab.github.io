@@ -24,4 +24,4 @@ CYAI 랩에서는 사이버보안과 인공지능을 함께 연구하고 싶은 
 
 
 ## 연락처
-📧 <a class="email" data-user="{{ member.email_user }}" data-domain="{{ member.email_domain }}"></a>
+📧 <a class="email" data-user="{{ site.data.members.professors[0].email_user }}" data-domain="{{ site.data.members.professors[0].email_domain }}"></a>
