@@ -3,7 +3,7 @@ professors:
     position: "Associate Professor, Sejong University"
     email_user : "choich"
     email_domain : "sejong.ac.kr"
-    image: "../assets/images/bio-photo.jpg"
+    image: "../assets/images/choi-photo.jpeg"
     homepage: "https://cyberhamster500.github.io"
   
     education:
@@ -63,7 +63,7 @@ undergraduates:
     role: "RED Team"
     email_user: "gimgeunho5"
     email_domain: "gmail.com"
-    image: "../assets/images/bio-photo.jpg"
+    image: "../assets/images/gim-photo.png"
     interests:
       - "LLM 기반 공격 Payload 생성 자동화"
       - "LLM 기반 공격 캠페인 변종 생성"
@@ -91,7 +91,7 @@ undergraduates:
     role: "BLUE Team"
     email_user: "byun050322"
     email_domain: "gmail.com"
-    image: "../assets/images/bio-photo.jpg"
+    image: "../assets/images/byun-photo.jpeg"
     interests:
       - "LLM 기반 CTI 분석"
       - "사이버 국방 분야"
@@ -100,7 +100,7 @@ undergraduates:
     role: "PURPLE Team"
     email_user: "wan6286"
     email_domain: "gmail.com"
-    image: "../assets/images/bio-photo.jpg"
+    image: "../assets/images/ryu-photo.jpeg"
     interests:
       - "AI 보안"
       - "리버싱"
