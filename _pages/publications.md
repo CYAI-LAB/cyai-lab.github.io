@@ -7,11 +7,11 @@ classes: wide
 ---
 
 ## International Journal
-- [1] I. Lee and C. Choi, “Camp2Vec: Embedding cyber campaign with ATT&CK framework for attack group analysis,” ICT Express, vol. 9, no. 6, pp. 1065–1070, Dec. 2023 [[online]](https://doi.org/10.1016/j.icte.2023.05.008)
-- [2] C. Choi, H. Lee, and H. Lee, “Estimation of color modification in digital images by CFA pattern change,” Forensic Science International, vol. 226, no. 1–3, pp. 94–105, Mar. 2013 [[online]](https://doi.org/10.1016/j.forsciint.2012.12.014)
-- [3] C. Shin, I. Lee, and C. Choi, “Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework,” IEEE Access, vol. 11, pp. 100823–100831, 2023 [[online]](https://doi.org/10.1109/ACCESS.2023.3315121)
-- [4] C. Choi, K. Lee, H. Lee, I. Jeong, and H. Yun, “Malware Family Classification Based on Novel Features from Frequency Analysis,” IJCTE, vol. 10, no. 4, pp. 135–138, 2018 [[online]](https://doi.org/10.7763/IJCTE.2018.V10.1214)
 - [5] I. Lee and C. Choi, "MuCamp: Generating Cyber Campaign Variants via TTP Synonym Replacement for Group Attribution", IEEE Transactions on Information Forensics and Security", Accept
+- [4] I. Lee and C. Choi, “Camp2Vec: Embedding cyber campaign with ATT&CK framework for attack group analysis,” ICT Express, vol. 9, no. 6, pp. 1065–1070, Dec. 2023 [[online]](https://doi.org/10.1016/j.icte.2023.05.008)
+- [3] C. Shin, I. Lee, and C. Choi, “Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework,” IEEE Access, vol. 11, pp. 100823–100831, 2023 [[online]](https://doi.org/10.1109/ACCESS.2023.3315121)
+- [2] C. Choi, K. Lee, H. Lee, I. Jeong, and H. Yun, “Malware Family Classification Based on Novel Features from Frequency Analysis,” IJCTE, vol. 10, no. 4, pp. 135–138, 2018 [[online]](https://doi.org/10.7763/IJCTE.2018.V10.1214)
+- [1] C. Choi, H. Lee, and H. Lee, “Estimation of color modification in digital images by CFA pattern change,” Forensic Science International, vol. 226, no. 1–3, pp. 94–105, Mar. 2013 [[online]](https://doi.org/10.1016/j.forsciint.2012.12.014)
 
 ## International Conference
 - [1] S. Shin, I. Lee, and C. Choi, “Anomaly dataset augmentation using the sequence generative models,” in 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA), IEEE, 2019, pp. 1143–1148 [[online]](https://doi.org/10.1109/ICMLA.2019.00190)
