@@ -35,5 +35,11 @@ feature_row:
     url: "/news/new-members/"
     btn_class: "btn--primary"
     btn_label: "더보기"
+
+  - title: "TIFS 저널 게재 승인!"
+    excerpt: "TIFS 저널에 게재 승인 되었습니다."
+    url: "/news/TIFS Accept/"
+    btn_class: "btn--primary"
+    btn_label: "더보기"
 ---
 {% include feature_row %}
