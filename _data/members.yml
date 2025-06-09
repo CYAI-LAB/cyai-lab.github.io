@@ -26,9 +26,9 @@ professors:
 #       - CoT 기반 TTP 추출
 #       - 공격 시퀀스 모델링
 
-#   - name: "김민수"
+#   - name: "홍길동"
 #     role: "석사과정"
-#     email: "minsu@cyai.lab"
+#     email: "hong@cyai.lab"
 #     image: "../assets/images/bio-photo.jpg"
 #     homepage: ""
 #     interests:
@@ -36,9 +36,9 @@ professors:
 #       - LLM 응용 보안 자동화
 #       - 로그 기반 위협 탐지
 
-#   - name: "김민수"
+#   - name: "홍길동"
 #     role: "석사과정"
-#     email: "minsu@cyai.lab"
+#     email: "hong@cyai.lab"
 #     image: "../assets/images/bio-photo.jpg"
 #     homepage: ""
 #     interests:
@@ -48,9 +48,9 @@ professors:
 
 
 # masters_students:
-#   - name: "김민수"
+#   - name: "홍길동"
 #     role: "석사과정"
-#     email: "minsu@cyai.lab"
+#     email: "hong@cyai.lab"
 #     image: "../assets/images/bio-photo.jpg"
 #     homepage: ""
 #     interests:
