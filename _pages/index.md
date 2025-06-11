@@ -38,7 +38,7 @@ feature_row:
 
   - title: "TIFS 저널 게재 승인!"
     excerpt: "TIFS 저널에 게재 승인 되었습니다."
-    url: "/news/TIFS Accept/"
+    url: "/news/TIFS-Accept/"
     btn_class: "btn--primary"
     btn_label: "더보기"
 ---
