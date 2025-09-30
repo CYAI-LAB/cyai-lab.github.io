@@ -1,0 +1,16 @@
+/* Custom site styles */
+
+/* Badge for new items in publications/news */
+.badge-new,
+sup.badge-new {
+  color: #00bcd4; /* cyan */
+  font-weight: 600;
+  font-size: 0.85em;
+  display: inline-block;
+  margin-left: 0.5rem;
+}
+
+/* small visual tweak so the sup doesn't collapse spacing */
+sup.badge-new {
+  vertical-align: baseline;
+}

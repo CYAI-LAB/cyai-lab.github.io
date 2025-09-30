@@ -1,0 +1,12 @@
+sup.badge-new {
+  /* Make NEW badge use cyan text (match project style) and no filled background */
+  background-color: transparent;
+  color: #00bcd4; /* cyan */
+  padding: 0; /* keep compact */
+  border-radius: 0.35em;
+  font-size: 0.6em;
+  margin-left: 0.35em;
+  text-transform: uppercase;
+  font-weight: 600;
+  vertical-align: text-top;
+}

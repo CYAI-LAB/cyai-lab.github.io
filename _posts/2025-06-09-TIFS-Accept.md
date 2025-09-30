@@ -8,11 +8,9 @@ tags:
   - 연구실
   - 저널
   - TIFS
+permalink: /news/TIFS-Accept/
 ---
 
 IEEE Transactions on Information Forensics and Security(TIFS)에 게재 승인되었습니다!
 TIFS는 정보보호 분야 상위 저널(Q1, 8.7%)입니다. 
-
-Insup Lee and Changhee Choi, "MuCamp: Generating Cyber Campaign Variants via TTP Synonym Replacement for Group Attribution", IEEE Transactions on Information Forensics and Security
-
 ---

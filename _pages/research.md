@@ -21,6 +21,11 @@ classes: wide
 - Fully automated Simulation/Emulation
 - AI-supported cyber defense training
 
+## Anti-tampering 
+- Software-based Reverse Engineering Resistance
+- Digital Watermarking & Code Fingerprinting for Software Integrity
+
 ## Digital Image/Video Forensics
 - Forged region detection
 - Deep fake detection
+

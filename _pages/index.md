@@ -24,15 +24,15 @@ feature_row:
   - 
     # image_path: /assets/images/mm-customizable-feature.png
     # alt: "customizable"
-    title: "CYAI 연구실 탄생"
-    excerpt: "세종대학교 CYAI 연구실이 탄생하였습니다. "
-    url: "/news/post-new/"
+    title: "JICS에 게재 되었습니다."
+    excerpt: "Journal of Internet Computing and Services(JICS)에 게재되었습니다."
+    url: "/news/JICS-Published/"
     btn_class: "btn--primary"
     btn_label: "더보기"
 
-  - title: "CYAI 연구실 멤버 추가"
-    excerpt: "CYAI LAB 멤버가 추가되었습니다.  "
-    url: "/news/new-members/"
+  - title: "인터넷정보학회 추계학술대회 — 6편 발표"
+    excerpt: "우리 연구실에서 2025 인터넷정보학회 추계학술대회에 6편을 발표했습니다."
+    url: "/news/Internet-Conf-6papers/"
     btn_class: "btn--primary"
     btn_label: "더보기"
 

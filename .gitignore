@@ -2,3 +2,34 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+
+# Bundler / Ruby
+/vendor/bundle
+.bundle
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Logs, temp
+log/
+tmp/
+
+# Environment files
+.env
+
+# Test / coverage
+coverage/
+.cache/
