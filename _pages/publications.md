@@ -7,11 +7,12 @@ classes: wide
 ---
 
 ## International Journal
-- [1] I. Lee and C. Choi, "MuCamp: Generating Cyber Campaign Variants via TTP Synonym Replacement for Group Attribution," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 6162–6174, 2025, doi: 10.1109/TIFS.2025.3578233 [[online]](https://ieeexplore.ieee.org/document/11029111) <sup class="badge-new">NEW</sup>
-- [2] I. Lee and C. Choi, “Camp2Vec: Embedding cyber campaign with ATT&CK framework for attack group analysis,” ICT Express, vol. 9, no. 6, pp. 1065–1070, Dec. 2023 [[online]](https://doi.org/10.1016/j.icte.2023.05.008)
-- [3] C. Shin, I. Lee, and C. Choi, “Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework,” IEEE Access, vol. 11, pp. 100823–100831, 2023 [[online]](https://doi.org/10.1109/ACCESS.2023.3315121)
-- [4] C. Choi, K. Lee, H. Lee, I. Jeong, and H. Yun, “Malware Family Classification Based on Novel Features from Frequency Analysis,” IJCTE, vol. 10, no. 4, pp. 135–138, 2018 [[online]](https://doi.org/10.7763/IJCTE.2018.V10.1214)
-- [5] C. Choi, H. Lee, and H. Lee, “Estimation of color modification in digital images by CFA pattern change,” Forensic Science International, vol. 226, no. 1–3, pp. 94–105, Mar. 2013 [[online]](https://doi.org/10.1016/j.forsciint.2012.12.014)
+- [1] S. Lee, K. Lee, S. Cho, and C. Choi, "APTStop: A Real-time Framework for APT Defense via Strategic Threat Observation and Prediction," IEEE Access, 2025, doi: 10.1109/ACCESS.2025.3624035 [[online]](https://doi.org/10.1109/ACCESS.2025.3624035) <sup class="badge-new">NEW</sup>
+- [2] I. Lee and C. Choi, "MuCamp: Generating Cyber Campaign Variants via TTP Synonym Replacement for Group Attribution," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 6162–6174, 2025, doi: 10.1109/TIFS.2025.3578233 [[online]](https://ieeexplore.ieee.org/document/11029111)
+- [3] I. Lee and C. Choi, "Camp2Vec: Embedding cyber campaign with ATT&CK framework for attack group analysis," ICT Express, vol. 9, no. 6, pp. 1065–1070, Dec. 2023 [[online]](https://doi.org/10.1016/j.icte.2023.05.008)
+- [4] C. Shin, I. Lee, and C. Choi, "Exploiting TTP Co-Occurrence via GloVe-Based Embedding With MITRE ATT&CK Framework," IEEE Access, vol. 11, pp. 100823–100831, 2023 [[online]](https://doi.org/10.1109/ACCESS.2023.3315121)
+- [5] C. Choi, K. Lee, H. Lee, I. Jeong, and H. Yun, "Malware Family Classification Based on Novel Features from Frequency Analysis," IJCTE, vol. 10, no. 4, pp. 135–138, 2018 [[online]](https://doi.org/10.7763/IJCTE.2018.V10.1214)
+- [6] C. Choi, H. Lee, and H. Lee, "Estimation of color modification in digital images by CFA pattern change," Forensic Science International, vol. 226, no. 1–3, pp. 94–105, Mar. 2013 [[online]](https://doi.org/10.1016/j.forsciint.2012.12.014)
 
 ## International Conference
 - [1] C. Choi, S. Shin, and C. Shin, “Performance evaluation method of cyber attack behaviour forecasting based on mitigation,” in 2021 International Conference on Information and Communication Technology Convergence (ICTC), IEEE, 2021, pp. 13–15. [[online]](https://ieeexplore.ieee.org/abstract/document/9620951/)
