@@ -24,7 +24,13 @@ feature_row:
   - 
     # image_path: /assets/images/mm-customizable-feature.png
     # alt: "customizable"
-    title: "IEEE Access 저널 Accept!"
+    title: "새로운 멤버 안용준 학생 합류"
+    excerpt: "안용준 학생이 우리 연구실에 합류했습니다. 환영합니다!"
+    url: "/news/new-member-ahn/"
+    btn_class: "btn--primary"
+    btn_label: "더보기"
+
+  - title: "IEEE Access 저널 Accept!"
     excerpt: "APTStop 논문이 IEEE Access에 Accept 되었습니다."
     url: "/news/IEEE-Access-Accept/"
     btn_class: "btn--primary"
@@ -33,12 +39,6 @@ feature_row:
   - title: "JICS에 게재 되었습니다."
     excerpt: "Journal of Internet Computing and Services(JICS)에 게재되었습니다."
     url: "/news/JICS-Published/"
-    btn_class: "btn--primary"
-    btn_label: "더보기"
-
-  - title: "인터넷정보학회 추계학술대회 — 6편 발표"
-    excerpt: "우리 연구실에서 2025 인터넷정보학회 추계학술대회에 6편을 발표했습니다."
-    url: "/news/Internet-Conf-6papers/"
     btn_class: "btn--primary"
     btn_label: "더보기"
 ---
