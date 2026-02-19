@@ -130,3 +130,12 @@ undergraduates:
       - "모바일 보안"
       - "포렌식"
 
+  - name: "이지호"
+    role: "PINK Team"
+    email_user: "jiholee809"
+    email_domain: "gmail.com"
+    image: "../assets/images/lee-photo.png"
+    interests:
+      - "AI 시스템 보안"
+      - "포렌식"
+
