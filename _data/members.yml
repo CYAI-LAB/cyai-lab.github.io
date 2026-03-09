@@ -112,15 +112,6 @@ undergraduates:
       - "LLM 기반 CTI 분석"
       - "사이버 국방 분야"
 
-  - name: "류승완"
-    role: "PURPLE Team"
-    email_user: "wan6286"
-    email_domain: "gmail.com"
-    image: "../assets/images/ryu-photo.jpeg"
-    interests:
-      - "AI 보안"
-      - "리버싱"
-
   - name: "이지민"
     role: "PURPLE Team"
     email_user: "cddpt"
@@ -138,4 +129,22 @@ undergraduates:
     interests:
       - "AI 시스템 보안"
       - "포렌식"
+
+  - name: "정재연"
+    role: "PINK Team"
+    email_user: "jaeyeonjeong62"
+    email_domain: "gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests:
+      - "AI를 위한 보안"
+
+alumni:
+  - name: "류승완"
+    role: "PURPLE Team"
+    email_user: "wan6286"
+    email_domain: "gmail.com"
+    image: "../assets/images/ryu-photo.jpeg"
+    interests:
+      - "AI 보안"
+      - "리버싱"
 

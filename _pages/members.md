@@ -148,3 +148,29 @@ classes: wide
   </div>
   {% endfor %}
 </div>
+
+## Alumni
+
+<div class="member-grid">
+  {% for member in site.data.members.alumni %}
+  <div class="member-card">
+    {% if member.image %}
+    <img src="{{ member.image }}" alt="{{ member.name }}" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+    {% endif %}
+    <h3>{{ member.name }}</h3>
+    <p><strong>{{ member.role }}</strong></p>
+    <p>✉ <a class="email" data-user="{{ member.email_user }}" data-domain="{{ member.email_domain }}"></a></p>
+    {% if member.homepage %}
+    <p>🌐 <a href="{{ member.homepage }}" target="_blank">Homepage</a></p>
+    {% endif %}
+    {% if member.interests %}
+    <strong>Interests:</strong>
+    <ul>
+      {% for interest in member.interests %}
+      <li>{{ interest }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
