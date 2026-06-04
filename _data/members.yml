@@ -138,6 +138,30 @@ undergraduates:
     interests:
       - "AI를 위한 보안"
 
+  - name: "김세용"
+    role: "BLUE Team"
+    email_user: "tptkp"
+    email_domain: "naver.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests:
+      - "AI를 활용한 공격 및 방어"
+
+  - name: "허채원"
+    role: "RED Team"
+    email_user: "7077ht"
+    email_domain: "gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests:
+      - "AI를 활용한 보안 공격 및 방어"
+
+  - name: "윤서빈"
+    role: "BLUE Team"
+    email_user: "yunseobin070702"
+    email_domain: "gmail.com"
+    image: "../assets/images/bio-photo.jpg"
+    interests:
+      - "AI를 활용한 보안 및 시스템"
+
 alumni:
   - name: "류승완"
     role: "PURPLE Team"
