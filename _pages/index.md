@@ -28,15 +28,15 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "더보기"
 
-  - title: "새로운 멤버 이지호, 정재연 학생 합류"
-    excerpt: "이지호, 정재연 학생이 우리 연구실에 합류했습니다. 환영합니다!"
-    url: "/news/new-members-lee-jeong/"
-    btn_class: "btn--primary"
-    btn_label: "더보기"
-
   - title: "IEEE Access 저널 Accept!"
     excerpt: "APTStop 논문이 IEEE Access에 Accept 되었습니다."
     url: "/news/IEEE-Access-Accept/"
+    btn_class: "btn--primary"
+    btn_label: "더보기"
+
+  - title: "JICS에 게재 되었습니다."
+    excerpt: "Journal of Internet Computing and Services(JICS)에 게재되었습니다."
+    url: "/news/JICS-Published/"
     btn_class: "btn--primary"
     btn_label: "더보기"
 ---
