@@ -1,43 +1,6 @@
 ---
-layout: splash
-title: "CYAI Lab"
+layout: redirect
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
-  overlay_image: /assets/images/cyai-lab-bg.jpg
-  # actions:
-  #   - label: "연구실 소개"
-  #     url: "/about/"
-  #   - label: "구성원"
-  #     url: "/members/"
-  #   - label: "논문"
-  #     url: "/publications/"
-excerpt: >
-  세종대학교 인공지능 사이버보안 연구실에 오신 것을 환영합니다.   
-
-  우리는 사이버보안과 인공지능을 함께 연구합니다.  
-intro: 
-  - excerpt: "CYAI 랩에 오신 것을 환영합니다"
-
-feature_row:
-  - 
-    title: "새로운 멤버 김세용, 허채원, 윤서빈 학생 합류"
-    excerpt: "김세용, 허채원, 윤서빈 학생이 우리 연구실에 합류했습니다. 환영합니다!"
-    url: "/news/new-members-kim-heo-yun/"
-    btn_class: "btn--primary"
-    btn_label: "더보기"
-
-  - title: "IEEE Access 저널 Accept!"
-    excerpt: "APTStop 논문이 IEEE Access에 Accept 되었습니다."
-    url: "/news/IEEE-Access-Accept/"
-    btn_class: "btn--primary"
-    btn_label: "더보기"
-
-  - title: "JICS에 게재 되었습니다."
-    excerpt: "Journal of Internet Computing and Services(JICS)에 게재되었습니다."
-    url: "/news/JICS-Published/"
-    btn_class: "btn--primary"
-    btn_label: "더보기"
+target: https://cyai.sejong.ac.kr/
+sitemap: false
 ---
-{% include feature_row %}

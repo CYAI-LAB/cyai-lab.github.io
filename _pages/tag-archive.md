@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
+layout: redirect
 permalink: /tags/
-layout: tags
-author_profile: false
+target: https://cyai.sejong.ac.kr/news/
+sitemap: false
 ---

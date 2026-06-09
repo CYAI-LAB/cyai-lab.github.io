@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
+layout: redirect
 permalink: /categories/
-author_profile: false
+target: https://cyai.sejong.ac.kr/news/
+sitemap: false
 ---

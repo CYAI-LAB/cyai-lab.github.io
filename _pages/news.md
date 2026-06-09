@@ -1,7 +1,5 @@
 ---
-layout: home
-title: "News"
+layout: redirect
 permalink: /news/
-author_profile: false
-classes: wide
+sitemap: false
 ---

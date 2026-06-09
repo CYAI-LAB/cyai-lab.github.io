@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
+layout: redirect
 permalink: /posts/
-layout: posts
-author_profile: false
+target: https://cyai.sejong.ac.kr/news/
+sitemap: false
 ---

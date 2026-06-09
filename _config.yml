@@ -90,18 +90,13 @@ author:
   
 
 defaults:
-  # _posts
+  # _posts — 모두 새 사이트(cyai.sejong.ac.kr)의 동일 경로로 리다이렉트
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: false
-      classes: wide
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout: redirect
+      sitemap: false
   # _pages
   - scope:
       path: "_pages"
